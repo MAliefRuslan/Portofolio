@@ -7,7 +7,9 @@
 ---
 
 ### **RINGKASAN PROFESIONAL**
-Lulusan **Rekayasa Perangkat Lunak** dari **Universitas Teknologi Akba Makassar** dengan spesialisasi di bidang **Data Entry, Data Collection, dan Data Visualization**. Memiliki pengalaman riset ilmiah yang kuat dalam mengklasifikasikan data penjualan berskala besar menggunakan metode data mining (**Algoritma C5.0**) pada perusahaan distributor FMCG terkemuka (PT. Arta Boga Cemerlang). Didukung dengan portofolio aplikatif dalam mengelola siklus data secara *end-to-end*—mulai dari proses entri data transaksional, ekstraksi & pembersihan dataset multi-cabang, hingga penyajian grafik analitik interaktif berbasis web (Chart.js & PapaParse).
+<p align="justify">
+Lulusan <b>Rekayasa Perangkat Lunak</b> dari <b>Universitas Teknologi Akba Makassar</b> dengan spesialisasi di bidang <b>Data Entry, Data Collection, dan Data Visualization</b>. Memiliki pengalaman riset ilmiah yang kuat dalam mengklasifikasikan data penjualan berskala besar menggunakan metode data mining (<b>Algoritma C5.0</b>) pada perusahaan distributor FMCG terkemuka (PT. Arta Boga Cemerlang). Didukung dengan portofolio aplikatif dalam mengelola siklus data secara <i>end-to-end</i>—mulai dari proses entri data transaksional, ekstraksi & pembersihan dataset multi-cabang, hingga penyajian grafik analitik interaktif berbasis web (Chart.js & PapaParse).
+</p>
 
 ---
 
