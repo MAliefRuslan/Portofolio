@@ -1,8 +1,8 @@
-# PORTFOLIO RESUME
+# PORTOFOLIO RESUME
 
 ## **ALIEF RUSLAN**
 📍 Makassar, Indonesia | ✉️ [aliefruslan67@gmail.com](mailto:aliefruslan67@gmail.com) | 📞 [+62 859 2510 0830](https://wa.me/6285925100830)  
-🔗 [GitHub Profile](https://github.com/MAliefRuslan) | 🖥️ [Main Portfolio](https://maliefruslan.github.io/Dashboard_ADB/#overview)
+🔗 [GitHub Profile](https://github.com/MAliefRuslan) | 🖥️ [Main Portofolio](https://maliefruslan.github.io/Dashboard_ADB/#overview)
 
 ---
 
@@ -23,7 +23,7 @@ Lulusan <b>Rekayasa Perangkat Lunak</b> dari <b>Universitas Teknologi Akba Makas
 
 ---
 
-### **PENGALAMAN PROYEK ILMIAH & MANDIRI (PORTFOLIO)**
+### **PENGALAMAN PROYEK ILMIAH & MANDIRI (PORTOFOLIO)**
 
 #### **1. Penelitian Ilmiah – Klasifikasi Penjualan Produk pada PT. Arta Boga Cemerlang**
 *Peneliti Utama & Data Engineer (Tugas Akhir / Skripsi)*
