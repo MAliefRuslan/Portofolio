@@ -37,18 +37,24 @@ Lulusan <b>Rekayasa Perangkat Lunak</b> dari <b>Universitas Teknologi Akba Makas
 *   **Data Visualization:** Membangun visualisasi interaktif multi-halaman (*Overview*, *Cabang*, *Produk*, *Transaksi*) menggunakan library Chart.js dan PapaParse guna memudahkan pemilik bisnis memantau produk terlaris dan profitabilitas harian secara real-time.
 *   *🔗 [Lihat Proyek](https://maliefruslan.github.io/Dashboard_ADB/#overview)*
 
-#### **3. Data Visualizer – Dashboard Penjualan Sate Taichan Mappanyukki (STM)**
+#### **3. Data Analyst & Visualizer – Dashboard Penjualan Bakso Ibu**
+*Dashboard Analisis Penjualan, Komparasi Cabang, dan Tren Bulanan.*
+*   **Data Entry & Collection:** Mengumpulkan data penjualan harian dari beberapa cabang Bakso Ibu, serta merapikan struktur data bulanan untuk komparasi kinerja antar cabang.
+*   **Data Visualization & Analytics:** Memvisualisasikan komparasi kinerja cabang, analisis produk terpopuler, dan tren pertumbuhan bulanan dengan desain modern berbasis Chart.js dan Chartjs-plugin-datalabels. Mengintegrasikan Google Analytics (gtag.js) untuk melacak perilaku dan interaksi pengguna di dashboard.
+*   *🔗 [Lihat Proyek](https://maliefruslan.github.io/Dashboard_BaksoIbu/)*
+
+#### **4. Data Visualizer – Dashboard Penjualan Sate Taichan Mappanyukki (STM)**
 *Dashboard Analisis Kinerja Penjualan Harian dan Pola Transaksi Restoran.*
 *   **Data Entry & Collection:** Menyusun database transaksi penjualan sate taichan berdasarkan bulan dan cabang secara terstruktur untuk menghindari kesalahan entri.
 *   **Data Visualization:** Mendesain visualisasi analisis penjualan berbasis waktu (per jam) dan preferensi pembayaran konsumen guna mendukung efisiensi operasional dan ketersediaan stok bahan baku di lapangan.
 *   *🔗 [Lihat Proyek](https://maliefruslan.github.io/Dashboard_STM/)*
 
-#### **4. Data & UI Developer – Dashboard Kantin Chefathi**
+#### **5. Data & UI Developer – Dashboard Kantin Chefathi**
 *Dashboard Manajemen Produk dan Analisis Profitabilitas Kantin.*
 *   **Data Entry & Visualisasi:** Mengelola entri data logistik berkala, melakukan klasifikasi menu makanan/minuman secara terstruktur, dan mengimplementasikan bagan interaktif responsif seluler untuk melacak kontribusi penjualan per kategori menu.
 *   *🔗 [Lihat Proyek](https://maliefruslan.github.io/Dashboard_Chefathi/)*
 
-#### **5. Front-End Data Developer – Dashboard Penjualan Senopati & Bujang**
+#### **6. Front-End Data Developer – Dashboard Penjualan Senopati & Bujang**
 *Dua Dashboard Kinerja Keuangan Multi-Tahun dengan Estetika Desain Glassmorphism.*
 *   **Data Collection & Visualization:** Mengumpulkan data historis penjualan tahunan dan performa kasir untuk memvisualisasikan perbandingan pendapatan tahunan dengan grafik tren garis (*line chart*).
 *   *🔗 [Dashboard Senopati](https://maliefruslan.github.io/Dashboard_Senopati/) | [Dashboard Bujang](https://maliefruslan.github.io/Dashboard_Bujang/)*
