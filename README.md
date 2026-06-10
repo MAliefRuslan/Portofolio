@@ -1,8 +1,8 @@
 # PORTOFOLIO RESUME
 
 ## **M. ALIEF RUSLAN**
-Makassar, Indonesia | aliefruslan67@gmail.com | +62 859 2510 0830  
-LinkedIn: [linkedin.com/in/m-alief-ruslan-6a0607415](https://www.linkedin.com/in/m-alief-ruslan-6a0607415) | GitHub: [github.com/MAliefRuslan](https://github.com/MAliefRuslan) | Portofolio: [maliefruslan.github.io/Dashboard_ADB/#overview](https://maliefruslan.github.io/Dashboard_ADB/#overview)
+Makassar, Indonesia | aliefruslan67@gmail.com | Telepon: +62 859 2510 0830 | WhatsApp: [+62 895 3403 17137](https://wa.me/62895340317137)  
+LinkedIn: [linkedin.com/in/m-alief-ruslan-6a0607415](https://www.linkedin.com/in/m-alief-ruslan-6a0607415) | Instagram: [instagram.com/aliefffs_](https://www.instagram.com/aliefffs_?igsh=amt5N294bzA4MWl5&utm_source=qr) | GitHub: [github.com/MAliefRuslan](https://github.com/MAliefRuslan) | Portofolio: [maliefruslan.github.io/Dashboard_ADB/#overview](https://maliefruslan.github.io/Dashboard_ADB/#overview)
 
 
 ---
